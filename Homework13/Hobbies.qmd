@@ -1,0 +1,30 @@
+---
+title: "Hobbies"
+format: html
+editor: visual
+---
+
+## Music
+
+-   I love listening to music anytime, my favirote genre of music is rock and my favorite band is The Beatles, their music can really help me to process all kinds of feelings
+-   I'm not just listening to music, I can play guitar, bass, drums (not very good but OK) and Guzheng(A traditional Chinese instrument), and I have my own band 2 years ago and we played in school's stage, but it's disbanded now.
+
+![playing music with frieds](Music.jpg)
+
+## TV and movies
+
+-   I like watching many types of TV shows and movies (expect for horro movie).
+-   My favorite TV shows are The office and Modern Family and my favorite movie is Chungking Express.
+-   I watched Modern Family 8 times for all 11 seasons.
+
+![Watching The Office with frieds](TV.jpg)
+
+## Photographs
+
+-   I love document life with a camera
+-   I'm better at landscapes than portraits and I like taking pictures of other people more than selfies
+
+![My partner in the light ](Photo.jpg)
+
+
+![Bear lake](Bear lake.jpg)
